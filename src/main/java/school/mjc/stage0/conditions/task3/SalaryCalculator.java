@@ -11,4 +11,5 @@ public class SalaryCalculator {
        } else {
            System.out.println(salary-salary*20/100);
        }
+    }
 }
